@@ -1,0 +1,14 @@
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.local.*
+runner/slack-app-status.json
+runner/captures/
+runner/state/
+runner/logs/
+__pycache__/
+*.pyc
+node_modules/
+.wrangler/
+.DS_Store

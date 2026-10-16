@@ -1,0 +1,8 @@
+{
+  "name": "cryptobot-runner",
+  "private": true,
+  "version": "0.2.0",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {"capture": "node runner/capture.cjs"},
+  "dependencies": {"playwright": "1.62.1"}
+}

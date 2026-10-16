@@ -1,0 +1,58 @@
+{
+  "url": "https://cryptobubbles.net/en",
+  "chartPeriod": "1D",
+  "rankRanges": [
+    [
+      1,
+      100
+    ],
+    [
+      101,
+      200
+    ],
+    [
+      201,
+      300
+    ],
+    [
+      301,
+      400
+    ],
+    [
+      401,
+      500
+    ],
+    [
+      501,
+      600
+    ],
+    [
+      601,
+      700
+    ],
+    [
+      701,
+      800
+    ],
+    [
+      801,
+      900
+    ],
+    [
+      901,
+      1000
+    ]
+  ],
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "timezone": "Asia/Seoul",
+  "schedule": {
+    "intervalMinutes": 60,
+    "enabled": false
+  },
+  "slackChannelId": "CONFIGURED_BY_ENVIRONMENT",
+  "captureAttemptsPerPage": 3,
+  "delivery": "one-message-multiple-files"
+}
